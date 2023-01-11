@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ansarimati
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in full stack mern development
+- 🌱 I’m currently mern dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail me
 
